@@ -1,4 +1,4 @@
-# checkpoint-five
+# WHO Data Project Checkpoint Five and Link to Checkpoint Four (Tableau Viz)
 
 This is the fifth and final stage of the WHO Covid-19 Data Project. Prior to this stage, visualizations were conducted on the cleaned data using Tableau.
 
